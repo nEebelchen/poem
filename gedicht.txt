@@ -6,3 +6,4 @@ malachit
 schwarze Nacht
 weisser Mond
 Sternenhimmel
+Dachs
